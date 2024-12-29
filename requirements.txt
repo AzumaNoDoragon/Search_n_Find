@@ -1,3 +1,4 @@
+requests
+playwright
 pyautogui
 mysql-connector-python
-playwright
