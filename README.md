@@ -2,6 +2,7 @@
 
 **Automatiza a busca e coleta de informações de empresas no Google para cadastro em banco de dados e validação de contatos via WhatsApp Web.**
 **Atualização com GUI**
+
 ![ScrapingMaps](https://github.com/user-attachments/assets/b8174ba4-df1c-473a-a459-2c0c522b2906)
 
 ## Requisitos
