@@ -39,3 +39,6 @@ O projeto possui três principais scripts e um script de conexão:
    - Envio de notificação via Telegram ao final da execução dos scripts ou algum erro.
 
 > **Nota:** O código para a criação das tabelas não está incluído neste repositório para preservar a ética. Certifique-se de configurar o banco de dados conforme necessário.
+
+## Licença
+Este portfólio está licenciado sob a [MIT License](LICENSE).
