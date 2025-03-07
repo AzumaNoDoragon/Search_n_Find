@@ -1,3 +1,3 @@
 @echo off
-python Search_n_Find.py
+python searchPainel.py
 exit
