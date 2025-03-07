@@ -21,7 +21,7 @@
    - Após a instalação, você pode iniciar a aplicação executando o script `run_script.vbs`.
 
 3. **Configurar conexão com DB**
-   - Colocar suas credenciais no connect.py:
+   - Colocar suas credenciais no `connect.py`:
      - (host=' ', user=' ', password=' ', database=' ', port=' ')
    - Criar as tabelas especificadas no código.
 
